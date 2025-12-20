@@ -4,6 +4,14 @@
 I am a Technical Writer with an English Literature background, dedicated to making complex financial systems easy to navigate. I specialize in the "Docs-as-Code" workflow.
 
 ---
+### 📂 Featured Documentation Projects
+
+| Project | Value Proposition (Why it matters) |
+| :--- | :--- |
+| **[EuroFlow User Guide](https://fatima-360.github.io/euroflow-guide/)** | **Reduces Support Volume:** Simplifies complex cross-border payment flows to empower users and decrease support tickets. |
+| **[Financial SOP](https://fatima-360.github.io/financial-sop/)** | **Ensures Compliance:** Mitigates legal risk by standardizing high-stakes financial processes according to EU regulatory standards. |
+| **[Technical Glossary](https://fatima-360.github.io/technical-glossary/)** | **Aligns Teams:** Eliminates communication silos by establishing a "Single Source of Truth" for fintech terminology. |
+| **[UX Microcopy Study](https://fatima-360.github.io/ux-writing-finance/)** | **Improves Retention:** Enhances user experience by replacing technical jargon with empathetic, solution-oriented error messages. |
 
 ### 🛠️ My Technical Stack
 
