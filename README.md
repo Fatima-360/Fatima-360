@@ -17,7 +17,7 @@ Domain Expertise: Fintech, Regulatory Compliance (EU Directives), Information Ar
 Writing Style: Active Voice, Plain English for Finance, Stakeholder Management.
 
 📂 Featured Projects
-* [VAT Reconciliation SOP](https://fatima-360.github.io/Fatima-360/financial-sop.html): A comprehensive guide on EU Directive 2006/112/EC compliance.
+* [VAT Reconciliation SOP](https://fatima-360.github.io/Fatima-360/financial-sop.md): A comprehensive guide on EU Directive 2006/112/EC compliance.
 
-* [EuroFlow UX Case Study](https://fatima-360.github.io/Fatima-360/euroflow-guide.html): End-to-end user documentation for a mobile expense management app.
-*  [Fintech Technical Glossary](https://fatima-360.github.io/Fatima-360/technical-glossary.html): A standardized database of SaaS and Fintech terminology designed to ensure cross-functional alignment between engineering and product teams.
+* [EuroFlow UX Case Study](https://fatima-360.github.io/Fatima-360/euroflow-guide.md): End-to-end user documentation for a mobile expense management app.
+*  [Fintech Technical Glossary](https://fatima-360.github.io/Fatima-360/technical-glossary.md): A standardized database of SaaS and Fintech terminology designed to ensure cross-functional alignment between engineering and product teams.
