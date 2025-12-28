@@ -9,14 +9,12 @@ UX Writing: I design intuitive microcopy and onboarding flows for mobile banking
 
 Docs-as-Code: I manage documentation lifecycles using Markdown, Git, and GitHub to align with developer workflows.
 
-🛠️ Tech Stack & Skills
-Documentation Tools: Git, GitHub, VS Code, Markdown.
+### 🛠 Tech Stack & Skills
+* **Documentation Tools:** Git, GitHub, VS Code, Markdown.
+* **Domain Expertise:** Fintech, Regulatory Compliance (EU Directives), Information Architecture.
+* **Writing Style:** Active Voice, Plain English for Finance, Stakeholder Management.
 
-Domain Expertise: Fintech, Regulatory Compliance (EU Directives), Information Architecture.
-
-Writing Style: Active Voice, Plain English for Finance, Stakeholder Management.
-
-📂 Featured Projects
+### 📂 Featured Projects
 * [VAT Reconciliation SOP](https://fatima-360.github.io/financial-sop)
 * [EuroFlow UX Case Study](https://fatima-360.github.io/euroflow-guide)
 * [Technical Glossary](https://fatima-360.github.io/technical-glossary)
