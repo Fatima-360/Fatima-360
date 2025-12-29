@@ -32,6 +32,14 @@ I specialize in bridging the gap between complex financial systems and user-frie
 
 ---
 
-## 📫 Connect with me
-* **LinkedIn:** [Fatima Umair](https://www.linkedin.com/in/fatima-umair-56b337224/)
-* **Email:** [fatimaumair360@gmail.com](fatimaumair360@gmail.com)
+---
+
+## 🤝 Let's Connect!
+
+I am always open to discussing technical writing opportunities, Fintech compliance, or Docs-as-Code workflows.
+
+* 📧 **Email:** [fatimaumair360@gmail.com](mailto:fatimaumair360@gmail.com)
+* 🔵 **LinkedIn:** [Fatima Umair](https://www.linkedin.com/in/fatima-umair-/)
+* 🌐 **Portfolio Website:** [fatima-360.github.io](https://fatima-360.github.io/)
+
+---
