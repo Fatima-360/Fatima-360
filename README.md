@@ -1,20 +1,38 @@
-Hi, I'm Fatima 👋
-Fintech Technical Writer | Compliance Specialist
-I specialize in bridging the gap between complex financial systems and user-friendly documentation. With a background in English Literature, I bring analytical precision and a high-level command of language to technical and regulatory workflows.
+# Hi, I'm Fatima 👋 
+### Fintech Technical Writer | Docs-as-Code Specialist | Compliance & UX
 
-🚀 What I Do
-Fintech Compliance: I develop Standard Operating Procedures (SOPs) for VAT reconciliation and EU financial directives, ensuring regulatory accuracy.
+I specialize in bridging the gap between complex financial systems and user-friendly documentation. Using a **Docs-as-Code** methodology, I transform intricate architectural diagrams and financial SOPs into scalable, developer-friendly content.
 
-UX Writing: I design intuitive microcopy and onboarding flows for mobile banking applications to reduce user friction.
+---
 
-Docs-as-Code: I manage documentation lifecycles using Markdown, Git, and GitHub to align with developer workflows.
+## 🚀 Featured Projects
 
-### 🛠 Tech Stack & Skills
-* **Documentation Tools:** Git, GitHub, VS Code, Markdown.
-* **Domain Expertise:** Fintech, Regulatory Compliance (EU Directives), Information Architecture.
-* **Writing Style:** Active Voice, Plain English for Finance, Stakeholder Management.
+### 🏦 [VAT Reconciliation SOP](https://github.com/fatima-360/VAT-SOP-Repo)
+* **Focus:** Compliance, Accuracy, and Internal Operations.
+* **Impact:** Standardized a complex accounting process, minimizing the risk of human error during financial auditing cycles.
+* **Tools:** Markdown, Git, Mermaid.js.
 
-### 📂 Featured Projects
-* [VAT Reconciliation SOP](https://fatima-360.github.io/financial-sop)
-* [EuroFlow UX Case Study](https://fatima-360.github.io/euroflow-guide)
-* [Technical Glossary](https://fatima-360.github.io/technical-glossary)
+### 💳 [EuroFlow User Guide](https://github.com/fatima-360/EuroFlow-Guide-Repo)
+* **Focus:** User Experience (UX), Product Adoption, and Accessibility.
+* **Impact:** Reduced support inquiries and improved success rates for first-time financial transactions.
+* **Tools:** Markdown, Figma, GitHub Pages.
+
+### 📖 [Fintech & SaaS Glossary](https://github.com/fatima-360/Glossary-Repo)
+* **Focus:** Information Architecture and Standardization.
+* **Impact:** Eliminated cross-departmental communication gaps and reduced onboarding time by 30%.
+* **Tools:** Docusaurus, GitHub Actions, YAML.
+
+---
+
+## 🛠️ Technical Stack
+* **Documentation:** Markdown, Docs-as-Code Workflow
+* **Version Control:** Git & GitHub
+* **Visualization:** Mermaid.js (Diagrams-as-Code)
+* **CI/CD:** GitHub Actions for automated doc deployment
+* **Design:** Figma (UX Writing & Annotations)
+
+---
+
+## 📫 Connect with me
+* **LinkedIn:** [Your LinkedIn Profile Link]
+* **Email:** [Your Professional Email]
