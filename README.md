@@ -10,11 +10,12 @@ I specialize in bridging the gap between complex financial systems and user-frie
 ### 🏦 [VAT Reconciliation SOP](https://github.com/fatima-360/fatima-360.github.io/blob/main/financial-sop.md)
 * **Focus:** Compliance, Accuracy, and Internal Operations.
 * **Impact:** Standardized complex accounting, ensuring audit readiness.
+*  **Tools:** Markdown, Git, Mermaid.js.
 
 ### 💳 [EuroFlow User Guide](https://github.com/fatima-360/fatima-360.github.io/blob/main/euroflow-guide.md)
 * **Focus:** User Experience (UX) and Product Adoption.
 * **Impact:** Simplified mobile banking onboarding for non-technical users.
-
+* **Tools:** Markdown, Figma, GitHub Pages
 ### 📖 [Fintech & SaaS Glossary](https://github.com/fatima-360/fatima-360.github.io/blob/main/technical-glossary.md)
 * **Focus:** Information Architecture and Standardization.
 * **Impact:** Created a unified "Single Source of Truth" for engineering and product teams.
