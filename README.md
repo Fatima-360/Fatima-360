@@ -7,19 +7,17 @@ I specialize in bridging the gap between complex financial systems and user-frie
 
 ## 🚀 Featured Projects
 
-### 🏦 [VAT Reconciliation SOP](https://github.com/fatima-360/VAT-SOP-Repo)
+### 🏦 [VAT Reconciliation SOP](https://github.com/fatima-360/fatima-360.github.io/blob/main/financial-sop.md)
 * **Focus:** Compliance, Accuracy, and Internal Operations.
-* **Impact:** Standardized a complex accounting process, minimizing the risk of human error during financial auditing cycles.
-* **Tools:** Markdown, Git, Mermaid.js.
+* **Impact:** Standardized complex accounting, ensuring audit readiness.
 
-### 💳 [EuroFlow User Guide](https://github.com/fatima-360/EuroFlow-Guide-Repo)
-* **Focus:** User Experience (UX), Product Adoption, and Accessibility.
-* **Impact:** Reduced support inquiries and improved success rates for first-time financial transactions.
-* **Tools:** Markdown, Figma, GitHub Pages.
+### 💳 [EuroFlow User Guide](https://github.com/fatima-360/fatima-360.github.io/blob/main/euroflow-guide.md)
+* **Focus:** User Experience (UX) and Product Adoption.
+* **Impact:** Simplified mobile banking onboarding for non-technical users.
 
-### 📖 [Fintech & SaaS Glossary](https://github.com/fatima-360/Glossary-Repo)
+### 📖 [Fintech & SaaS Glossary](https://github.com/fatima-360/fatima-360.github.io/blob/main/technical-glossary.md)
 * **Focus:** Information Architecture and Standardization.
-* **Impact:** Eliminated cross-departmental communication gaps and reduced onboarding time by 30%.
+* **Impact:** Created a unified "Single Source of Truth" for engineering and product teams.
 * **Tools:** Docusaurus, GitHub Actions, YAML.
 
 ---
