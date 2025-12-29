@@ -34,4 +34,4 @@ I specialize in bridging the gap between complex financial systems and user-frie
 
 ## 📫 Connect with me
 * **LinkedIn:** [Fatima Umair](https://www.linkedin.com/in/fatima-umair-56b337224/)
-* **Email:** [fatima.360@email.com](mailto:fatimaumair360@gmail.com)
+* **Email:** [fatimaumair360@gmail.com](mailto:fatimaumair360@gmail.com)
