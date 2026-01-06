@@ -15,7 +15,7 @@ I help fintech and SaaS teams turn complex financial systems into clear, complia
 
 ---
 ### 📂 Featured Case Study
-- [FinCore Wallet — Fintech Documentation Suite][(https://fatima-360.github.io/fincore-wallet-documentation/)]
+* [🚀 View Live Documentation Portal](https://fatima-360.github.io/fincore-wallet-documentation/)
 
 
  
