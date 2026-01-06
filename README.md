@@ -21,21 +21,22 @@ I help fintech and SaaS teams turn complex financial systems into clear, complia
  
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-### 🏦 [VAT Reconciliation SOP](https://github.com/fatima-360/fatima-360.github.io/blob/main/financial-sop.md)
+#### 🏢 [VAT Reconciliation SOP](https://fatima-360.github.io/fincore-wallet-documentation/vat-reconciliation-sop/internal-sop)
 * **Focus:** Compliance, Accuracy, and Internal Operations.
 * **Impact:** Standardized complex accounting, ensuring audit readiness.
-*  **Tools:** Markdown, Git, Mermaid.js.
+* **Tools:** Markdown, Git, GitHub.
 
-### 💳 [EuroFlow User Guide](https://github.com/fatima-360/fatima-360.github.io/blob/main/euroflow-guide.md)
+#### 💳 [EuroFlow User Guide](https://fatima-360.github.io/fincore-wallet-documentation/user-guide/getting-started)
 * **Focus:** User Experience (UX) and Product Adoption.
 * **Impact:** Simplified mobile banking onboarding for non-technical users.
-* **Tools:** Markdown, Figma, GitHub Pages
-### 📖 [Fintech & SaaS Glossary](https://github.com/fatima-360/fatima-360.github.io/blob/main/technical-glossary.md)
+* **Tools:** Markdown, GitHub Pages.
+
+#### 📖 [Fintech & SaaS Glossary](https://fatima-360.github.io/fincore-wallet-documentation/glossary/fintech-terms)
 * **Focus:** Information Architecture and Standardization.
-* **Impact:** Created a unified "Single Source of Truth" for engineering and product teams.
-* **Tools:** Docusaurus, GitHub Actions, YAML.
+* **Impact:** Created a unified "Single Source of Truth" for engineering teams.
+* **Tools:** Markdown, GitHub.
 
 ---
 
