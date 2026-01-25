@@ -55,7 +55,7 @@ I help fintech and SaaS teams turn complex financial systems into clear, complia
 
 I am always open to discussing technical writing opportunities, Fintech compliance, or Docs-as-Code workflows.
 
-* 📧 **Email:** [fatimaumair360@gmail.com](mailto:fatimaumair360@gmail.com) 
+* 📧 **Email:** [fatima.umair.docs@gmail.com](mailto:fatima.umair.docs@gmail.com) 
 * 🔵 **LinkedIn:** [Fatima Umair](https://www.linkedin.com/in/fatima-umair-/)
 * 🌐 **Portfolio Website:** [fatima-360.github.io](https://fatima-360.github.io/)
 
